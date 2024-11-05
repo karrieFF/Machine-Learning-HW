@@ -1,7 +1,9 @@
 This is a machine learning library developed by Lingyi Fu (u1452585) for CS5350/6350 in University of Utah
 
 Please run "main_bank.py" file in the EnsembleLearning folder for the Adaboost, Bagging trees, Random Forest algorithm for the Bank dataset.
+
 Please run "credit.py" file in the EnsembleLearning folder for the Adaboost, Bagging trees, Random forest algorithm for the credit dataset.
+
 Please run "LMSregression.py" file in the LinearRegression flder for the LMS with batch-gradient and stochastic gradient.
 
 Hyperparamters:
@@ -25,4 +27,12 @@ learning_rate1: the step size at each iteration  #0.0001
 
 5. Stochastic gradient
 learning_rate1: the step size at each iteration  #0.0001 
+
+6. Standard perceptron
+learning_rate1: the step size at each iteration  #0.0001 
+
+7. Voted perceptron
+
+
+8. Averaged perceptron
 
