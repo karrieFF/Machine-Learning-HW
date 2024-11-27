@@ -8,7 +8,7 @@ Please run "LMSregression.py" file in the LinearRegression folder for the LMS wi
 
 Please run the "Perceptron.py" file in the Perceptron folder for the Standard Perceptron/Voted Perceptron/Averaged Perceptron.
 
-Please run the "main.ipynb" file in the SVM for the 
+Please run the "main.ipynb" file in the SVM for the SVM with Primal form, Dual form, Gaussian kernel, and kernel perceptron algorithm.
 
 Hyperparamters:
 1. Adaboost
