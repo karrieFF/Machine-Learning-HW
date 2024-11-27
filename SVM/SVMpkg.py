@@ -1,5 +1,3 @@
-
-#upload package
 import pandas as pd
 import numpy as np
 import time
@@ -93,7 +91,7 @@ class DualSVM:
         alpha0 = np.zeros(n_samples)
 
         # Bounds for alpha: 0 <= alpha <= C
-        bounds = [(0, C) for _ in range(n_samples)]
+        bounds = [(0, self.C) for _ in range(n_samples)]
 
         # Equality constraint: sum(alpha * y) = 0
         constraints = {
