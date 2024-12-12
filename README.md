@@ -22,9 +22,9 @@ Please run the "logisticregression.ipynb" file in the Logisticregression folder 
 
 1. Adaboost
 
-features: features of the dataset 
+- features: features of the dataset 
 
-num_iterations: the number of epoches that will be runed to update the weights #500
+- num_iterations: the number of epoches that will be runed to update the weights #500
 
 2. Bagging
 
